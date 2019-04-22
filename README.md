@@ -13,5 +13,5 @@ var satispayOnline = new SatispayOnlineClient("<SecurityBearerString>");
 var satispayOnline = new SatispayOnlineClient("<SecurityBearerString>", SatispayEnvironment.Sandbox);
 
 // create a user
- SatispayUser user = await satispayOnline.CreateUserAsync("<PhoneNumber>");
+SatispayUser user = await satispayOnline.CreateUserAsync("<PhoneNumber>");
 ```
