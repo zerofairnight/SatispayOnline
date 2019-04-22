@@ -4,6 +4,10 @@
     <Authors>Zerofairnight</Authors>
     <Description>Unofficial Satispay Online API for .NET</Description>
     <Copyright>Copyright © Zerofairnight 2019</Copyright>
+    <PackageProjectUrl>https://github.com/zerofairnight/SatispayOnline</PackageProjectUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/zerofairnight/SatispayOnline/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/zerofairnight/SatispayOnline</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
   <ItemGroup>
