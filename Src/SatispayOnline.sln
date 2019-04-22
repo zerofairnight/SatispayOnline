@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SatispayOnline", "SatispayOnline\SatispayOnline.csproj", "{8D137C50-097C-4C59-B763-CB2D1850EB54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatispayOnline.Tests", "SatispayOnline.Tests\SatispayOnline.Tests.csproj", "{2790A034-B483-43CF-B416-F124B2FC4C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D137C50-097C-4C59-B763-CB2D1850EB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D137C50-097C-4C59-B763-CB2D1850EB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D137C50-097C-4C59-B763-CB2D1850EB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D137C50-097C-4C59-B763-CB2D1850EB54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2790A034-B483-43CF-B416-F124B2FC4C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2790A034-B483-43CF-B416-F124B2FC4C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2790A034-B483-43CF-B416-F124B2FC4C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2790A034-B483-43CF-B416-F124B2FC4C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EDFAF5D-B21E-461B-A33B-639C4C26E3B8}
+	EndGlobalSection
+EndGlobal
